@@ -21,9 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=enriquesousa.enriquesousa&"  />
-</div>
 
 ###
 
@@ -39,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Leguajes y herramientas</h3>
+<h3 align="left">🛠 Lenguajes y herramientas</h3>
 
 ###
 
@@ -73,12 +70,3 @@
 
 ###
 
-<h3 align="left"><i class="fas fa-home"></i>   Estadísticas:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=enriquesousa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
