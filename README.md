@@ -2,7 +2,7 @@
 
   <!-- <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYzY3BoazZvaTdhdWNqdTJ6dG1hNnJmZDV3MnlmZ2IwdXRrZTE4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  /> -->
   
-  <img height="150" src="img/logo_TJweb.png" />
+  <img height="150" src="img/logo-v_400x400.png" />
   
 
 </div>
