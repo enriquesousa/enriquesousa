@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"><i class="fas fa-home"></i>   Estadísticas:</h3>
 
 ###
 
