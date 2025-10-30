@@ -43,6 +43,7 @@
 ###
 
 <!-- Aquí podemos traer las svg https://devicon.dev -->
+<!-- Buscar la version de SVG -->
 
 <div align="left">
 
@@ -83,10 +84,11 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="css3 logo"/>
-  
-  
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular Logo"/>
-          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" height="40" alt="Angular JS Logo"/>
+                  
           
 
             
