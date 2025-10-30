@@ -87,6 +87,13 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="css3 logo"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="Angular logo"/>
+  <img width="12" />
+
+
+            
+          
+
 </div>
 
 ###
