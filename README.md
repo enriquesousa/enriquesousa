@@ -1,10 +1,11 @@
-<div align="center">
+<header>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
 
+<div align="center">
   <!-- <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnYzY3BoazZvaTdhdWNqdTJ6dG1hNnJmZDV3MnlmZ2IwdXRrZTE4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  /> -->
   
   <img height="150" src="img/logo-v_400x400.png" />
-  
-
 </div>
 
 ###
@@ -86,10 +87,9 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="css3 logo"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="Angular logo"/>
-  <img width="12" />
-
+  
+  <i class="devicon-angular-plain"></i>
+          
 
             
           
