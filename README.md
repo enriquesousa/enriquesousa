@@ -87,7 +87,10 @@
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="Angular Logo"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" height="40" alt="Angular JS Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" height="100" alt="Angular JS Logo"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="Type Script Logo"/>
+          
                   
           
 
